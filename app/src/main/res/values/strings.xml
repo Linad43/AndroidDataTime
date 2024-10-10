@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidDataTime</string>
+    <string name="firstName">Имя</string>
+    <string name="secondName">Фамилия</string>
+    <string name="patternDate">дд.мм.гггг</string>
+    <string name="save">Сохранить</string>
+    <string name="date">Дата рождения</string>
+    <string name="exit">Выход</string>
+</resources>
